@@ -1,0 +1,26 @@
+.header {
+    background-color: red;
+    height: 70px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;  
+  }
+  
+  /* Navigation Styles */
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+  }
+  
+  ul {
+    display: flex;
+  }
+  
+  li {
+    margin: 40px;
+    color: aliceblue;
+  }
+  

@@ -1,0 +1,26 @@
+.footer {
+    background-color: green;
+    color:#4a90e2;
+    height: 70px; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;   
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+  }
+  
+  ul {
+    display: flex;
+  }
+  
+  li {
+    margin: 40px;
+    color: aliceblue;
+  }
+  
